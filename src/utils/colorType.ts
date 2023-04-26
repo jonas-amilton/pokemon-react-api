@@ -6,3 +6,5 @@ const colorType = {
 };
 
 export default colorType;
+
+export type TColorType = 'fire' | 'grass' | 'water';
